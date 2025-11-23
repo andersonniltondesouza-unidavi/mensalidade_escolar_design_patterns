@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação desenvolvida em **Python**, como parte dos requisitos da disciplina de Linguagens de Programação e Paradigmas. O objetivo principal é demonstrar a aplicação prática de **Design Patterns** (Strategy, Decorator, Observer e Singleton) para resolver problemas de extensibilidade e manutenção em um domínio de negócio (cobrança escolar). O sistema replica a lógica de emissão de boletos, permitindo a troca dinâmica de regras de desconto, a aplicação acumulativa de encargos (multas/juros) e notificações desacopladas.
 
-`**Desenvolvido por:**`
+**Desenvolvido por:**
 
 * Anderson Nilton de Souza [@andersonniltondesouza-unidavi](https://github.com/andersonniltondesouza-unidavi)
 
